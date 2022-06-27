@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.text {
+    color: red;
+}
+
+.foto {
+    width: 50%;
+    height: 50%;
+    float: right;
+}
+
+.text2 {
+    color: red;
+}
+
+.foto2 {
+    width: 100%;
+    height: 100%;
+}
